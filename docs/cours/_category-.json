@@ -1,0 +1,9 @@
+{
+    "label": "Tout les cours",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Tous les cours"
+    }
+  }
+  
