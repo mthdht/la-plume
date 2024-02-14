@@ -1,15 +1,53 @@
 # C ou CC, tout les cas d'utilisation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Tu te demandes souvent si le ton mot contient un **`c`** ou **`cc`** ?
 
-## Pour les mots commençant par "ac" =>   le "c" est souvent doublé.
+Suis ces quelques règles pour ne plus jamais te tromper !
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qu
+
+## Pour les mots commençant par **`ac`**
+
+Lorsque le mot commence par "ac", le "c" est souvent doublé.
+
+> Exemples: "accueil", "accord", "accident", "accent"
+
+:::info A savoir
+'cc' se prononce avec le son [k] devant a, o et u, ici "accueil" et "accord"
+
+Mais se prononce avec le son [ks] devant les voyelles e et i, ici "accident" et "accent"
+
+:::
 
 ### Les exceptions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
+Bien que cela soit une règle générale, il existe des exceptions à cette règle.
 
-## Pour les mots commençant par "ec" et "ic" =>  le "c" n'est pas doublé :
+Voici les principales exceptions:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo c
+- acabit	
+- acacia	
+- académie	
+- acajou	
+- acanthe	
+- acariâtre	
+- acadien
+- acarien	
+- acolyte	
+- acompte	
+- aconit	
+- acoustique	
+- acuité	
+- acupuncture
+
+A ajouter aussi à cette liste la plupart des mots où 'ac' est suivi d'une consonne
+
+> Exemples acné	- acra - âcreté - acrobate	- acropole	- acrylique	- acteur
+
+:::warning 
+Sauf si c'est un mot formé à partir d'un autre commençant par un 'c':
+
+> Exemple: 
+
+|clamer|climat|crédit|croître|croc|
+|------|------|------|-------|----|
+|acclamer|acclimater|accréditer|accroître|accrocher|
